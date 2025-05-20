@@ -2,7 +2,7 @@
 
 Take your soccer simulator skills to the next level with the **Blue Lock: Rivals Script** – the ultimate tool to dominate the pitch in style! This free, keyless, and easy-to-use script lets you unlock *any style* and *flow* in **Blue Lock: Rivals**, instantly boosting your gameplay without spending a single in-game coin.
 
-![script-image](image-link-placeholder)
+![script-image](https://github.com/RobloxScriptsMan/Blue-Lock-Rivals/blob/main/blue%20lock%20rival.png)
 
 ---
 
